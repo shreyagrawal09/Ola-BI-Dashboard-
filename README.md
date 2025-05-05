@@ -4,9 +4,13 @@ This project is a Power BI dashboard showcasing analysis of Ola ride data. The d
 
 Key Features
 -> Interactive visualizations of key OLA business metrics.
+
 -> Analysis of ride booking trends.
+
 -> Breakdown of cancellation reasons and rates.
+
 -> Insights into popular routes or areas.
+
 -> Potential for drill-down into specific data points
 
 Tech Stack:
